@@ -1,4 +1,4 @@
-package aula04;
+package aula04ex01;
 
 public class Produto {
 
